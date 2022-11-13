@@ -1,1 +1,1 @@
-# official.catppucin-latte
+# official.catppuccin-latte
